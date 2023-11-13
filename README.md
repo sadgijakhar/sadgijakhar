@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadgi Jakhar</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- 🌱 I’m currently learning **MAchine Learning(Clustering)**
+- 🌱 I’m currently learning **Machine Learning(Clustering)**
 
 - 💬 Ask me about **Datastructure**
 
